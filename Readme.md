@@ -30,6 +30,9 @@ Help businesses choose the right time series forecasting approach depending on:
 
 ## 📊 Sample Forecast: LSTM vs TimesFM
 
+## 📊 Sample Forecast: LSTM vs TimesFM
+
+![LSTM vs TimesFM Forecast](images/forecast_comparison_lstmvsTimesfm.png)
 
 ---
 
